@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath:"/vue_woshop",
+    publicPath:"/vue_workshop",
     outputDir: "docs",
 }
